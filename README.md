@@ -5,7 +5,7 @@ Genre Classification of movies from movie reviews using scikit learn
 1. Data Collection
     Getting the dataset from Facebook and Excel PowerQuery
     Using powerquery, we extract all the posts from the facebook page of the corresponding Movie along with the timstamp, userid and the
-    genre of the movie and store it in an ecxel file in csv format.
+    genre of the movie and store it in an excel file in csv format.
     
 2. Text extraction
     We use countVectorizer to vectorize all the documents (reviews).
